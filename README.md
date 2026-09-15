@@ -1,4 +1,4 @@
 # Practice
 This is for better understanding the Git and GitHub.
 <br>
-Author-Ritam Majumdar
+Author-Ritam (Burnpur)
